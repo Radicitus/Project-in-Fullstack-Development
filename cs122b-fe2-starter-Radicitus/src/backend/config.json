@@ -1,0 +1,11 @@
+{
+  "idmBaseUrl": "http://localhost:8081",
+  "idm": {
+    "login": "/login",
+    "register": "/register"
+  },
+  "movieBaseUrl": "http://localhost:8082",
+  "movie": {
+    "search": "/movie/search"
+  }
+}
